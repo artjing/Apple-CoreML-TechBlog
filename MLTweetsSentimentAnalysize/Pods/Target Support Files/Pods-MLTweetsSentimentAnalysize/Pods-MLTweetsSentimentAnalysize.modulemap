@@ -1,0 +1,6 @@
+framework module Pods_MLTweetsSentimentAnalysize {
+  umbrella header "Pods-MLTweetsSentimentAnalysize-umbrella.h"
+
+  export *
+  module * { export * }
+}
